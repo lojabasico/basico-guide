@@ -1,0 +1,61 @@
+{
+  "logo": {
+    "text": "Basico Guide",
+    "type": "link",
+    "path": "index.html"
+  },
+  "main": [
+    {
+      "text": "Guides",
+      "type": "label",
+      "children": [
+        {
+          "text": "QA & Prod Environment",
+          "type": "link",
+          "path": "guides/environments.html"
+        },
+        {
+          "text": "Checkout Customization",
+          "type": "link",
+          "path": "guides/checkout_customization.html"
+        },
+        {
+          "text": "Image Specs for T-Shirt Print",
+          "type": "link",
+          "path": "guides/image_specifications_for_print.html"
+        },
+        {
+          "text": "Creating a new Checkout",
+          "type": "link",
+          "path": "guides/checkout_api_usage.html"
+        },
+        {
+          "text": "Listing Products",
+          "type": "link",
+          "path": "guides/store_api_usage.html"
+        }
+      ]
+    },
+    {
+      "text": "API's",
+      "type": "label",
+      "children": [
+        {
+          "text": "Store API",
+          "type": "link",
+          "path": "swagger/storeapi.html"
+        },
+        {
+          "text": "Checkout API",
+          "type": "link",
+          "path": "swagger/checkoutapi.html"
+        }
+      ]
+    },
+    {
+      "text": "Support",
+      "type": "link",
+      "path": "need_help.html"
+    }
+  ]
+}
