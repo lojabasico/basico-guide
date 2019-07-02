@@ -1,0 +1,17 @@
+$doc-color-primary: #000; // set primary color to "red"
+$doc-navbar-logo-text-color: #000;
+
+@import "hexo-theme-doc/_doc.scss";
+
+.doc-navbar {
+  &__logo__img {
+    width: 100px;
+    height: auto;
+  }
+
+  &__logo__text {
+    font-size: 16px;
+    color: #c1c1c1;
+    font-weight: normal;
+  }
+}

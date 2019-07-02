@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Basico.com Guide
+title: Basico.com/processos
 subtitle: Processes guides
 description: The guide to all basico.com processes
 keywords: process,guide,faq,basico
@@ -78,6 +78,9 @@ node_sass:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: ../node_modules/hexo-theme-doc
+
+theme_config:
+  favicon: images/favicon.ico
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
