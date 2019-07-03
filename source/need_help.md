@@ -1,4 +1,4 @@
-# Suporte
+# Suporte Técnico
 
 Nós podemos te ajudar e tirar qualquer dúvida que possa surgir a respeito de nossos processos.
 

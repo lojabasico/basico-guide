@@ -3,10 +3,14 @@ title: Custom Fields
 ---
 
 # Custom Fields
+São metadata, conhecidos também por metafields, esses são os campos adicionais do cadastro do produto, e em alguns casos obrigatórios para o cadastro de produto.
 
-São metadata, conhecidos também por metafields, esses são campos adicionais e em alguns casos obrigatórios para o cadastro de produto.
+Para realizar o cadastro dos Custom Fields, basta clicar em ***More Actions*** na parte superior da página do produto no admin.
 
-Os custom fields são:
+*Visualização no admin:*
+![](/images/products/metafields.png)
+
+Os Custom Fields são:
 
 | Campo | Obrigatório |
 |-|-|

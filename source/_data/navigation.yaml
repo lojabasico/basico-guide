@@ -20,6 +20,11 @@
           "path": "product/metafields.html"
         },
         {
+          "text": "Tags",
+          "type": "link",
+          "path": "product/tags.html"
+        },
+        {
           "text": "Estoque Integrado",
           "type": "link",
           "path": "product/integrated_stock.html"
@@ -27,7 +32,7 @@
       ]
     },
     {
-      "text": "Suporte",
+      "text": "Suporte Técnico",
       "type": "link",
       "path": "need_help.html"
     }

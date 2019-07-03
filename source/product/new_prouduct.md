@@ -3,7 +3,16 @@ title: Novo Produto
 ---
 
 # Novo Produto
-Segue o processo de cadastro de um novo produto na plataforma do basico.com (Shopify).
+Processo de cadastro de um novo produto na plataforma do basico.com (Shopify).
+
+## Fluxo de cadastro
+Existe um fluxo de cadastro de produto, que passa do financeiro ao marketing, antes do cadastro do produro na plataforma:
+
+1. Aprovar o produto com o fornecedor
+2. Definir data da amostra
+3. Fazer shooting (fotos do produto)
+4. Definir o nome exato do produto da cor
+5. Cadastrar na plataforma (seguinte nessa página)
 
 ## Pré Requisitos
 Antes de cadastrar um produto na plataforma, é crucial ter o material referente ao produto pronto para ser cadastrado préviamente. O nome do produto deve estar definido e as fotos referentes devem estar tratadas.
@@ -130,7 +139,7 @@ Esse painel é o primeiro do lado esquerdo da página de cadastro de produto. El
 A seleção desses canais publicam ou despublicam o produtos em seus respectivos.
 ___
 ### Organization
-Aqui cadastramos 2 informações cruciais para o produto, o *Product Type* e o *Vendor*. Existem mais dois campos nesse painel que são *Collections* e *Tags*, mas ambom são preenchidos automaticamente, porem é possível ao cadastrar um novo produto querer adicionar tags customizadas, confira essas tags na página das [Tags](tags).
+Aqui cadastramos 2 informações cruciais para o produto, o *Product Type* e o *Vendor*. Existem mais dois campos nesse painel que são *Collections* e *Tags*, mas ambom são preenchidos automaticamente, porem é possível ao cadastrar um novo produto querer adicionar tags customizadas, confira essas tags na página das [Tags](/tags.html).
 
 *Visualização no admin:*
 ![](/images/products/vendor.png)
