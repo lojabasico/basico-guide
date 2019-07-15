@@ -44,6 +44,11 @@
           "text": "Influenciadores",
           "type": "link",
           "path": "marketing/influencers.html"
+        },
+        {
+          "text": "Pôsters",
+          "type": "link",
+          "path": "marketing/posters.html"
         }
       ]
     },
