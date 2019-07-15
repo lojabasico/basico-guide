@@ -28,6 +28,22 @@
           "text": "Estoque Integrado",
           "type": "link",
           "path": "product/integrated_stock.html"
+        },
+        {
+          "text": "Lançamento",
+          "type": "link",
+          "path": "product/release.html"
+        }
+      ]
+    },
+    {
+      "text": "Marketing",
+      "type": "label",
+      "children": [
+        {
+          "text": "Influenciadores",
+          "type": "link",
+          "path": "marketing/influencers.html"
         }
       ]
     },
