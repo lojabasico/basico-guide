@@ -49,6 +49,26 @@
           "text": "Pôsters",
           "type": "link",
           "path": "marketing/posters.html"
+        },
+        {
+          "text": "Vitrines",
+          "type": "link",
+          "path": "marketing/showcase.html"
+        },
+        {
+          "text": "Materiais Gráficos",
+          "type": "link",
+          "path": "marketing/graphic.html"
+        },
+        {
+          "text": "Shooting",
+          "type": "link",
+          "path": "marketing/shooting.html"
+        },
+        {
+          "text": "Tratamento de imagens",
+          "type": "link",
+          "path": "marketing/treatment.html"
         }
       ]
     },
