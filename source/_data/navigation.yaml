@@ -46,29 +46,41 @@
           "path": "marketing/influencers.html"
         },
         {
-          "text": "Pôsters",
-          "type": "link",
-          "path": "marketing/posters.html"
-        },
-        {
           "text": "Vitrines",
           "type": "link",
           "path": "marketing/showcase.html"
-        },
-        {
-          "text": "Materiais Gráficos",
-          "type": "link",
-          "path": "marketing/graphic.html"
         },
         {
           "text": "Shooting",
           "type": "link",
           "path": "marketing/shooting.html"
         },
+      ]
+    },
+    {
+      "text": "Design",
+      "type": "label",
+      "children": [
+        {
+          "text": "Pôsters",
+          "type": "link",
+          "path": "design/posters.html"
+        },
+        {
+          "text": "Materiais Gráficos",
+          "type": "link",
+          "path": "design/graphic.html"
+        },
         {
           "text": "Tratamento de imagens",
           "type": "link",
-          "path": "marketing/treatment.html"
+          "path": "design/treatment.html"
+        },
+
+        {
+          "text": "Tamanho de imagens",
+          "type": "link",
+          "path": "design/image_size.html"
         }
       ]
     },
