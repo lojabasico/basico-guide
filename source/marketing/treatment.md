@@ -23,6 +23,8 @@ ___
 ## Tratamento das Imagens
 Existe um padrão grafico da marca, até para não quebrar o layout, que deve ser seguido no tratamento das imagens de produto. Elas devem ser condizentes em cor, tonalidade, levels, cor de fundo em relação às outras imagens do shooting e do site.
 
+{% youtube MCjxtbrsqR0 %}
+
 ___
 ## Corte e Upload
 Para fechar o processo, é definido o crop dessas imagens e o cadastro no sistema (Shopify).
