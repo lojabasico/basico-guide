@@ -22,6 +22,8 @@ ___
 | Banner vitrine (padrão) | 1178 x 1694 | 584 x 840 |
 | Banner vitrine (half) | 720 x 1084 | -- |
 
+`(tamanho em pixels)`
+
 ___
 ## Página de Produto
 | Área do Site | Tamanho Desk |
@@ -30,12 +32,16 @@ ___
 | Big Criteo | 1:1 (aconselhável 1000 x 1000) |
 | Size Chart | 1312 x 1312 |
 
+`(tamanho em pixels)`  
+
 ___
 ## Histórias
 | Área do Site | Tamanho Desk |
 |-|-|
 | Fotos (We Are Alive) | padronizar pela largura: 776px |
 | Fotos (nossos pôsters) | padronizar pela largura: 776px |
+
+`(tamanho em pixels)`  
 
 ___
 ## Landings
@@ -47,9 +53,13 @@ ___
 | Quadrado (1/3) | 776 x 776 | 584 x 584 |
 | Retângulo (2/3) | 1580 x 776 | -- |
 
+`(tamanho em pixels)`  
+
   **Grid de 3 colunas (Materiais)**
 
 | Área do Site | Tamanho Desk | Tamanho Mobile |
 |-|-|-|
 | Quadrado (1/4) | 575 x 575 | 584 x 584 |
 | Retângulo (2/4) | 1178 x 576 | -- |
+
+`(tamanho em pixels)`

@@ -11,7 +11,11 @@ A principal funcionalidade dessa integração é poder centralizar, organizar e 
 
 ___
 ## Produto Mãe (Feeder)
-O produto mãe (**feeder**) é o produto onde será cadastrado o estoque. O procedimento de cadastro é o mesmo do [cadastro](new_prouduct.html) de produto comum, mas não é necessário cadastrar nenhum metafield para esse produto, e é de suma importancia não esquecer de cadastrar as tags para ocultar esse tipo de produto nas vitrines, página de busca e catálogos de anuncio das redes sociais (*hide_from_collection*, *hide_from_search* e  *hide_from_catalog*).
+O produto mãe (**feeder**) é o produto onde será cadastrado o estoque. O procedimento de cadastro é o mesmo do [cadastro](new_prouduct.html) de produto comum, mas não é necessário cadastrar nenhum metafield para esse produto, e é de suma importancia não esquecer de cadastrar as tags para ocultar esse tipo de produto nas vitrines, página de busca e catálogos de anuncio das redes sociais (*hide_from_collection*, *hide_from_search* e  *hide_from_catalog*).  
+É **primordial** que o produto mãe contenha as mesmas variants do produto filho com SKU cadastrado. O preço do produto mãe precisa estar certo, já que ele é usado nos produtos filhos.  
+
+*Visualização no admin:*
+![](/images/stock/variants.png)
 
 --- **IMPORTANTE!** ---
 `Não esquecer de cadastrar as tags:`
