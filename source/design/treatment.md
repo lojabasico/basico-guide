@@ -31,7 +31,8 @@ Dentro das pastas de produtos é salva outra pasta com a data no padrão **AAAAM
 
 ___
 ## Seleção das Imagens
-Depois de organizar as pastas, as imagens são selecionadas para o tratamento, com prioridade aos lançamentos e posteriormente aos modelos que estão a vencer/vencidos e por fim, para campanhas.
+Depois de organizar as pastas, as imagens são selecionadas para o tratamento, com prioridade aos lançamentos e posteriormente aos modelos que estão a vencer/vencidos e por fim, para campanhas.  
+A seleção das imagens é feita com base no padrão: **vitrine, frente, lado, costas e foto espontânea**. Com a seleção das cinco fotos, elas seguem para tratamento.
 
 ___
 ## Tratamento das Imagens
