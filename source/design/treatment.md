@@ -3,28 +3,47 @@ title: Tratamento de imagens
 ---
 
 # Tratamento de imagens
-Temos um padão de tratamento de imagem que devemos seguir por motivos estéticos e de padronização, para que não afete o layout das vitrines do site. O processo de tratamento de imagens serve justamente para isso.
+Temos um padrão de tratamento de imagem que deve ser seguido por motivos estéticos, de padronização e para que não afete o layout das vitrines do site.
 
 {% youtube MCjxtbrsqR0 %}
 
 ___
 ## HD Externo
-São selecionadas no HD do shooting as imagens que serão tratadas. Essas imagens serão usadas na atualização dos produtos que já estão com fotos para vencer, ou no cadastro de novos produtos. Por fim também são selecionadas as imagens que serão usadas em campanhas do site ou de material impresso para as lojas.
+Após o shooting, recebemos o HD com as fotos a serem tratadas. A partir disso, é feita a organização dos arquivos separados em pastas de acordo com a planilha do shooting, separando por looks entre peças primárias e secundárias (complemento de look).  
+Sendo assim, são selecionadas no HD as imagens que serão tratadas. Essas imagens serão usadas na atualização dos produtos que já estão com fotos para vencer ou no cadastro de novos produtos.  
+Por fim, também são selecionadas as imagens que serão usadas em campanhas do site ou de material impresso para as lojas.
 
 ___
 ## Organização
-As imagens são então organizadas com uma nomenclatura padrão (com nome e data das fotos) e separadas em pastas que serão arquivadas no nosso dropbox.
+As imagens são organizadas com uma nomenclatura padrão e separadas em pastas que serão arquivadas no nosso Dropbox.  
+
+  **Nome da Pasta:** *G_nome da peça-tecido-cor*  
+  (G: gênero, sendo eles F para feminino, M para masculino e A para acessórios)  
+
+  *Exemplos:*
+  F_calça saruel-crepe-preto
+  M_camisa-veludo cotele-cobre
+  A_cinto dupla face-couro-rubi
+
+Dentro das pastas de produtos é salva outra pasta com a data no padrão **AAAAMMDD**
+
+  *Exemplo:* 20190430 (referente a 30 de Abril de 2019)
 
 ___
-## Seleção das imagens
-Depois de organizadas são selecionadas as imagens, na order de prioridade, para o tratamento. Primeiramente as que vão substituir as imagens que estão próximas do vencimento, depois as de produtos novos, campanhas, etc...
+## Seleção das Imagens
+Depois de organizar as pastas, as imagens são selecionadas para o tratamento, com prioridade aos lançamentos e posteriormente aos modelos que estão a vencer/vencidos e por fim, para campanhas.
 
 ___
 ## Tratamento das Imagens
-Existe um padrão grafico da marca, até para não quebrar o layout, que deve ser seguido no tratamento das imagens de produto. Elas devem ser condizentes em cor, tonalidade, levels, cor de fundo em relação às outras imagens do shooting e do site.
+Existe um padrão gráfico da marca que deve ser seguido no tratamento das imagens de produto. Elas devem ser condizentes em cor, tonalidade, levels, cor de fundo em relação às outras imagens do site.  
 
-{% youtube MCjxtbrsqR0 %}
+  O fundo precisa ter os seguintes valores:  
+  **RGB:** 239 238 242
+  **Hexadecimal:** *#efeef2*
+
+No tratamento do modelo, é importante ressaltar que não fazemos qualquer tipo de manipulação de imagem, o tratamento consiste apenas na limpeza da pele, como espinhas e pintas (não removemos cicatrizes, a não ser que seja solicitado) e escurecer partes que possam ter brilho excessivo, como testa e maçãs do rosto.  
+Há casos em que é necessário a calibragem da cor do produto, fazendo a máscara nele e mexendo na Matiz e Saturação para chegar ao resultado desejado.
 
 ___
 ## Corte e Upload
-Para fechar o processo, é definido o crop dessas imagens e o cadastro no sistema (Shopify).
+Após o processo de tratamento do produto e modelo, é definido o crop dessas imagens no arquivo .indd (salvo na pasta __3 recortes__, seguindo nessa pasta o mesmo padrão de organização supracitado) e salva no sistema (Shopify).
