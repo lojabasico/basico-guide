@@ -55,6 +55,11 @@
           "type": "link",
           "path": "marketing/shooting.html"
         },
+        {
+          "text": "Landing Page",
+          "type": "link",
+          "path": "marketing/landing_page.html"
+        },
       ]
     },
     {
