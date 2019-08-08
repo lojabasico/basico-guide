@@ -89,4 +89,4 @@ $ hexo generate
 
 ___
 ## Github
-Não esquecer de manter o respositório atualizado.
+Não esquecer de manter o repositório atualizado.
