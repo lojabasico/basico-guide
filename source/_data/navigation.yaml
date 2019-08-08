@@ -6,34 +6,40 @@
   },
   "main": [
     {
-      "text": "Produto",
+      "text": "Desenvolvimento",
       "type": "label",
       "children": [
         {
-          "text": "Novo Produto",
+          "text": "Documentação",
           "type": "link",
-          "path": "product/new_prouduct.html"
+          "path": "documentacao/documentacao.html"
+        },
+      ]
+    },
+    {
+      "text": "Design",
+      "type": "label",
+      "children": [
+        {
+          "text": "Pôsters",
+          "type": "link",
+          "path": "design/posters.html"
         },
         {
-          "text": "Custom Fields",
+          "text": "Materiais Gráficos",
           "type": "link",
-          "path": "product/metafields.html"
+          "path": "design/graphic.html"
         },
         {
-          "text": "Tags",
+          "text": "Tratamento de imagens",
           "type": "link",
-          "path": "product/tags.html"
+          "path": "design/treatment.html"
         },
         {
-          "text": "Estoque Integrado",
+          "text": "Tamanho de imagens",
           "type": "link",
-          "path": "product/integrated_stock.html"
+          "path": "design/image_size.html"
         },
-        {
-          "text": "Lançamento",
-          "type": "link",
-          "path": "product/release.html"
-        }
       ]
     },
     {
@@ -63,36 +69,40 @@
       ]
     },
     {
-      "text": "Design",
+      "text": "Produto",
       "type": "label",
       "children": [
         {
-          "text": "Pôsters",
+          "text": "Novo Produto",
           "type": "link",
-          "path": "design/posters.html"
+          "path": "product/new_prouduct.html"
         },
         {
-          "text": "Materiais Gráficos",
+          "text": "Custom Fields",
           "type": "link",
-          "path": "design/graphic.html"
+          "path": "product/metafields.html"
         },
         {
-          "text": "Tratamento de imagens",
+          "text": "Tags",
           "type": "link",
-          "path": "design/treatment.html"
+          "path": "product/tags.html"
         },
-
         {
-          "text": "Tamanho de imagens",
+          "text": "Estoque Integrado",
           "type": "link",
-          "path": "design/image_size.html"
-        }
+          "path": "product/integrated_stock.html"
+        },
+        {
+          "text": "Lançamento",
+          "type": "link",
+          "path": "product/release.html"
+        },
       ]
     },
     {
       "text": "Suporte Técnico",
       "type": "link",
       "path": "need_help.html"
-    }
+    },
   ]
 }
