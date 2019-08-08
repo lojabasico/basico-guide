@@ -88,6 +88,5 @@ $ hexo generate
 {% endcodeblock %}
 
 ___
-## Commit
---- **IMPORTANTE!** ---
-`Não esquecer de comentar no github.`
+## Github
+Não esquecer de manter o respositório atualizado.
