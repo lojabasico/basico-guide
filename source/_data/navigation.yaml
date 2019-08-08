@@ -40,6 +40,11 @@
           "type": "link",
           "path": "design/image_size.html"
         },
+        {
+          "text": "Landing Page",
+          "type": "link",
+          "path": "marketing/landing_page.html"
+        },
       ]
     },
     {
@@ -60,11 +65,6 @@
           "text": "Shooting",
           "type": "link",
           "path": "marketing/shooting.html"
-        },
-        {
-          "text": "Landing Page",
-          "type": "link",
-          "path": "marketing/landing_page.html"
         },
       ]
     },

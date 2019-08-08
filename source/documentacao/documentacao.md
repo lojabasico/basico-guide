@@ -81,8 +81,13 @@ Se tudo der certo o endereço do *localhost* será exibido como a imagem abaixo:
 Basta copiar o endereço e colar na sua barra de navegação. Você vai visualizar sua página renderizada.
 
 ___
-## Subindo os arquivos
-Por fim, digite o comando abaixo no terminal para subir as modificações do site.
+## Deploy
+Para realizar o processo de deploy basta realizar o seguinte comando:
 {% codeblock %}
 $ hexo generate
 {% endcodeblock %}
+
+___
+## Commit
+--- **IMPORTANTE!** ---
+`Não esquecer de comentar no github.`
