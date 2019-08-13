@@ -3,13 +3,17 @@ title: Pôsters
 ---
 
 # Como fazer um pôster
-Duplicar uma pasta já existente do caminho
+
+Aqui será explicado alguns procedimentos que devem ser executados para se criar um pôster.
+
+___
+## Path
+Duplicar uma pasta já existente do caminho:
 
 {% codeblock %}
 Dropbox (basico.com)/Design/2 trabalhos/papelaria_e_impressos/1 pôsteres
 {% endcodeblock %}
 
-## Path
 Renomear a pasta e o arquivo com AAAAMMDD_nome-do-artista-ou-projeto
 
 Salvar a imagem a ser impressa na pasta do pôster.
@@ -18,6 +22,7 @@ Abrir o arquivo de indd e alterar o campo "a imagem"
 
 ![](/images/posters/aimagem.png)
 
+___
 ## Indesign
 Ainda no indd, relinkar a fotografia a ser impressa e verificar se ela tem resolução para ser impressa no formato do pôster. (ESTE PASSO É SUPER IMPORTANTE).
 
@@ -30,6 +35,7 @@ Ainda no indd, relinkar a fotografia a ser impressa e verificar se ela tem resol
 
 As vezes a imagem está com 100% no indesign mas ela pode estar com 72dpi no photoshop, neste caso ela também está imprópria.
 
+___
 ## Photoshop
 Abrir a foto no photoshop e verificar dimensões:
 
@@ -57,11 +63,13 @@ __A fotografia sempre deve estar com__
 
 &nbsp;
 
+___
 ## Preflight
 Voltar para o indd e verificar se o arquivo está sem erros de preflight.
 
 ![](/images/posters/preflight.jpg)
 
+___
 ## Exportar
 Para exportar o pdf vá em
 {% codeblock %}
@@ -81,6 +89,7 @@ file > adobe pdf presets > X-1A
 
 Export
 
+___
 ## Gráfica
 Envie para a gráfica com o seguinte descritivo:
 
