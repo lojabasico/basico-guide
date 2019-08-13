@@ -14,6 +14,11 @@
           "type": "link",
           "path": "documentacao/documentacao.html"
         },
+        {
+          "text": "Stripe",
+          "type": "link",
+          "path": "documentacao/stripe.html"
+        },
       ]
     },
     {
