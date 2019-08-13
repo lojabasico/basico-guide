@@ -3,20 +3,23 @@ title: Pôsters
 ---
 
 # Como fazer um pôster
-#### 1. Duplicar uma pasta já existente do caminho
+Duplicar uma pasta já existente do caminho
+
 {% codeblock %}
 Dropbox (basico.com)/Design/2 trabalhos/papelaria_e_impressos/1 pôsteres
 {% endcodeblock %}
 
-#### 2. Renomear a pasta e o arquivo com AAAAMMDD_nome-do-artista-ou-projeto
+## Path
+Renomear a pasta e o arquivo com AAAAMMDD_nome-do-artista-ou-projeto
 
-#### 3. Salvar a imagem a ser impressa na pasta do pôster.
+Salvar a imagem a ser impressa na pasta do pôster.
 
-#### 4. Abrir o arquivo de indd e alterar o campo "a imagem"
+Abrir o arquivo de indd e alterar o campo "a imagem"
 
 ![](/images/posters/aimagem.png)
 
-#### 5. Ainda no indd, relinkar a fotografia a ser impressa e verificar se ela tem resolução para ser impressa no formato do pôster. (ESTE PASSO É SUPER IMPORTANTE).
+## Indesign
+Ainda no indd, relinkar a fotografia a ser impressa e verificar se ela tem resolução para ser impressa no formato do pôster. (ESTE PASSO É SUPER IMPORTANTE).
 
 * verificar se a imagem está em porcentagem proporcional
 * verificar se a porcentagem vai até 120%. Se passar de 120% __não usar__.
@@ -27,9 +30,17 @@ Dropbox (basico.com)/Design/2 trabalhos/papelaria_e_impressos/1 pôsteres
 
 As vezes a imagem está com 100% no indesign mas ela pode estar com 72dpi no photoshop, neste caso ela também está imprópria.
 
-#### 6. Abrir a foto no photoshop e verificar dimensões:
+## Photoshop
+Abrir a foto no photoshop e verificar dimensões:
+
+No Mac:
 {% codeblock %}
 cmmd + alt + i
+{% endcodeblock %}
+
+No Windows:
+{% codeblock %}
+ctrl + alt + i
 {% endcodeblock %}
 
 <img src="/images/posters/dimensao_photoshop.jpg" width="800"/>
@@ -46,12 +57,13 @@ __A fotografia sempre deve estar com__
 
 &nbsp;
 
-#### 7. Voltar para o indd e verificar se o arquivo está sem erros de preflight.
+## Preflight
+Voltar para o indd e verificar se o arquivo está sem erros de preflight.
 
 ![](/images/posters/preflight.jpg)
 
-#### 8. Exportar!
-para exportar o pdf vá em
+## Exportar
+Para exportar o pdf vá em
 {% codeblock %}
 file > adobe pdf presets > X-1A
 {% endcodeblock %}
@@ -69,7 +81,8 @@ file > adobe pdf presets > X-1A
 
 Export
 
-#### 9. Envie para a gráfica com o seguinte descritivo:
+## Gráfica
+Envie para a gráfica com o seguinte descritivo:
 
 NOME,
 tudo bem?
@@ -95,6 +108,7 @@ __1x1 PRETO__
 40 sem dobra.*
 
 Geralmente nós mandamos 3 artes diferentes no mesmo pedido de 1000 á 1500 unidades por arquivo.  Os fornecedores são:
+
 <u>Planet Plus</u>
 <u>contato@planetplus.com.br</u>
 
