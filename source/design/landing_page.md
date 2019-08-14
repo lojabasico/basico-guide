@@ -47,8 +47,27 @@ Para acesssar o site e ver como essa biblioteca funciona basta acessar [basico w
 ![](/images/landing_page/widgets.png)
 
 ___
+## Imagens
+Para aplicar uma imagem na criação da *Landing Page* é necessário acessar *Settings*
+
+![](/images/landing_page/settings.png)
+
+E depois selecionar *Files*
+
+![](/images/landing_page/files.png)
+
+Essas imagens podem ser aplicadas na *Landing Page*. Para conseguir usar as imagens, basta copiar a url da imagem e inserir dentro da tag no seu código HTML.
+
+![](/images/landing_page/url_img.png)
+
+{% codeblock %}
+<landing-grid columns="36" desk_columns="9">
+  <landing-caption image="https://cdn.shopify.com/s/files/1/1324/3705/files/pantalona_midi_gelo.jpg?68862" position="right">
+{% endcodeblock %}
+
+___
 ## Salvando sua página
 
 ![](/images/landing_page/botao_save.png)
 
-Agora que a sua página está pronta basta salvar seu arquivo.
+Agora que a sua página está pronta, basta salvar seu arquivo.
