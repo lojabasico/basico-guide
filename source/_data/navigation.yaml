@@ -15,6 +15,11 @@
           "path": "documentacao/documentacao.html"
         },
         {
+          "text": "Fora do Ar",
+          "type": "link",
+          "path": "documentacao/status_shopify.html"
+        },
+        {
           "text": "Stripe",
           "type": "link",
           "path": "documentacao/stripe.html"
