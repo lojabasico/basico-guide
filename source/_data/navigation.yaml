@@ -10,6 +10,11 @@
       "type": "label",
       "children": [
         {
+          "text": "Blacklist",
+          "type": "link",
+          "path": "documentacao/blacklist.html"
+        },
+        {
           "text": "Documentação",
           "type": "link",
           "path": "documentacao/documentacao.html"
