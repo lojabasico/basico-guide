@@ -60,7 +60,8 @@ Existem algumas tags que são colocadas manualmente nos produtos para esconde-lo
 | hide_from_search | esconde o produto da página de busca |
 | hide_from_catalog | esconde o produto dos catálogos de anuncios |
 
-**IMPORTANTE:** Essas tags servem somente para esconder os produtos, isso não significa que eles estejam despublicados do sistema.
+--- **IMPORTANTE!** ---
+`Essas tags servem somente para esconder os produtos, isso não significa que eles estejam despublicados do sistema.`
 
 ___
 ## Material
@@ -73,3 +74,25 @@ Existem também tags referentes à cor do produto (ex.: branco, preto, marinho) 
 ___
 ## Promoção
 Existem tags que são cadastradas manualmente para habilitar o produto, para que o mesmo possa participar de mecanicas de promoção, ex.: **promo-top**, **natal**
+
+___
+## Editar Diversas Tags
+Esse processo pode ser útil quando for necessário adicionar ou remover tags em diversos produtos ao mesmo tempo.
+
+Acessar: Products
+
+E procurar pelos produtos que deseja alterar. Pode-se selecionar todos produtos de uma vez e executar uma ação em *Actions*.
+
+Adicionando tags *Add tags* ou removendo *Remove tags* conforme sua necessidade.
+
+![](/images/tags/search_tag.png)
+
+Basta adicionar uma tag nova ou alguma tag que já existe. Aplicar as mudanças em *Aplly changes*
+
+![](/images/tags/add_tags.png)
+
+Para consultar se a tag foi adicionada ou removida com sucesso, basta clicar no produto e verificar quais tags estão ativas no produto.
+
+![](/images/tags/view_tags.png)
+
+Aqui também é possível adicionar ou remover a tag em um único produto.
