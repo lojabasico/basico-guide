@@ -36,9 +36,9 @@
       "type": "label",
       "children": [
         {
-          "text": "Pôsters",
+          "text": "Landing Page",
           "type": "link",
-          "path": "design/posters.html"
+          "path": "design/landing_page.html"
         },
         {
           "text": "Materiais Gráficos",
@@ -46,9 +46,9 @@
           "path": "design/graphic.html"
         },
         {
-          "text": "Tratamento de imagens",
+          "text": "Pôsters",
           "type": "link",
-          "path": "design/treatment.html"
+          "path": "design/posters.html"
         },
         {
           "text": "Tamanho de imagens",
@@ -56,9 +56,9 @@
           "path": "design/image_size.html"
         },
         {
-          "text": "Landing Page",
+          "text": "Tratamento de imagens",
           "type": "link",
-          "path": "design/landing_page.html"
+          "path": "design/treatment.html"
         },
       ]
     },
@@ -72,14 +72,14 @@
           "path": "marketing/influencers.html"
         },
         {
-          "text": "Vitrines",
-          "type": "link",
-          "path": "marketing/showcase.html"
-        },
-        {
           "text": "Shooting",
           "type": "link",
           "path": "marketing/shooting.html"
+        },
+        {
+          "text": "Vitrines",
+          "type": "link",
+          "path": "marketing/showcase.html"
         },
       ]
     },
@@ -88,19 +88,9 @@
       "type": "label",
       "children": [
         {
-          "text": "Novo Produto",
-          "type": "link",
-          "path": "product/new_prouduct.html"
-        },
-        {
           "text": "Custom Fields",
           "type": "link",
           "path": "product/metafields.html"
-        },
-        {
-          "text": "Tags",
-          "type": "link",
-          "path": "product/tags.html"
         },
         {
           "text": "Estoque Integrado",
@@ -111,6 +101,21 @@
           "text": "Lançamento",
           "type": "link",
           "path": "product/release.html"
+        },
+        {
+          "text": "Layout",
+          "type": "link",
+          "path": "product/layout_product.html"
+        },
+        {
+          "text": "Novo Produto",
+          "type": "link",
+          "path": "product/new_prouduct.html"
+        },
+        {
+          "text": "Tags",
+          "type": "link",
+          "path": "product/tags.html"
         },
       ]
     },
