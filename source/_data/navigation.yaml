@@ -29,6 +29,11 @@
           "type": "link",
           "path": "documentacao/stripe.html"
         },
+        {
+          "text": "Cupom",
+          "type": "link",
+          "path": "documentacao/voucherify.html"
+        },
       ]
     },
     {
