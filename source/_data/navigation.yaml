@@ -15,6 +15,11 @@
           "path": "documentacao/blacklist.html"
         },
         {
+          "text": "Cupom",
+          "type": "link",
+          "path": "documentacao/voucherify.html"
+        },
+        {
           "text": "Documentação",
           "type": "link",
           "path": "documentacao/documentacao.html"
@@ -25,14 +30,14 @@
           "path": "documentacao/status_shopify.html"
         },
         {
+          "text": "Preços de Desconto",
+          "type": "link",
+          "path": "documentacao/tiers.html"
+        },
+        {
           "text": "Stripe",
           "type": "link",
           "path": "documentacao/stripe.html"
-        },
-        {
-          "text": "Cupom",
-          "type": "link",
-          "path": "documentacao/voucherify.html"
         },
       ]
     },
