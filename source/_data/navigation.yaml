@@ -15,9 +15,19 @@
           "path": "documentacao/blacklist.html"
         },
         {
+          "text": "Configurar C.W.Y.P",
+          "type": "link",
+          "path": "documentacao/config_cwyp.html"
+        },
+        {
           "text": "Cupom",
           "type": "link",
           "path": "documentacao/voucherify.html"
+        },
+        {
+          "text": "C.W.Y.P",
+          "type": "link",
+          "path": "documentacao/cwyp.html"
         },
         {
           "text": "Documentação",
@@ -28,11 +38,6 @@
           "text": "Fora do Ar",
           "type": "link",
           "path": "documentacao/status_shopify.html"
-        },
-        {
-          "text": "Preços de Desconto",
-          "type": "link",
-          "path": "documentacao/tiers.html"
         },
         {
           "text": "Stripe",
