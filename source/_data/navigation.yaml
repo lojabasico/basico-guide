@@ -40,11 +40,6 @@
           "path": "documentacao/status_shopify.html"
         },
         {
-          "text": "Selo",
-          "type": "link",
-          "path": "documentacao/stamp.html"
-        },
-        {
           "text": "Stripe",
           "type": "link",
           "path": "documentacao/stripe.html"
@@ -66,10 +61,20 @@
           "path": "design/graphic.html"
         },
         {
+          "text": "Menu do Site",
+          "type": "link",
+          "path": "design/menu_navigation.html"
+        },
+        {
           "text": "Pôsters",
           "type": "link",
           "path": "design/posters.html"
         },
+        {
+          "text": "Selo",
+          "type": "link",
+          "path": "documentacao/stamp.html"
+        },        
         {
           "text": "Tamanho de imagens",
           "type": "link",
