@@ -40,6 +40,11 @@
           "path": "documentacao/status_shopify.html"
         },
         {
+          "text": "Rodapé",
+          "type": "link",
+          "path": "documentacao/footer_site.html"
+        },
+        {
           "text": "Stripe",
           "type": "link",
           "path": "documentacao/stripe.html"
@@ -74,7 +79,7 @@
           "text": "Selo",
           "type": "link",
           "path": "documentacao/stamp.html"
-        },        
+        },
         {
           "text": "Tamanho de imagens",
           "type": "link",
