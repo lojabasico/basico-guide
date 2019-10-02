@@ -41,6 +41,11 @@
       "type": "label",
       "children": [
         {
+          "text": "Manual de Comunicação",
+          "type": "link",
+          "path": "marketing/communication-manual.html"
+        },
+        {
           "text": "Influenciadores",
           "type": "link",
           "path": "marketing/influencers.html"
