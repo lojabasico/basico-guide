@@ -6,34 +6,90 @@
   },
   "main": [
     {
-      "text": "Produto",
+      "text": "Desenvolvimento",
       "type": "label",
       "children": [
         {
-          "text": "Novo Produto",
+          "text": "Blacklist",
           "type": "link",
-          "path": "product/new_prouduct.html"
+          "path": "documentacao/blacklist.html"
         },
         {
-          "text": "Custom Fields",
+          "text": "Configurar C.W.Y.P",
           "type": "link",
-          "path": "product/metafields.html"
+          "path": "documentacao/config_cwyp.html"
         },
         {
-          "text": "Tags",
+          "text": "Cupom",
           "type": "link",
-          "path": "product/tags.html"
+          "path": "documentacao/voucherify.html"
         },
         {
-          "text": "Estoque Integrado",
+          "text": "C.W.Y.P",
           "type": "link",
-          "path": "product/integrated_stock.html"
+          "path": "documentacao/cwyp.html"
         },
         {
-          "text": "Lançamento",
+          "text": "Documentação",
           "type": "link",
-          "path": "product/release.html"
-        }
+          "path": "documentacao/documentacao.html"
+        },
+        {
+          "text": "Fora do Ar",
+          "type": "link",
+          "path": "documentacao/status_shopify.html"
+        },
+        {
+          "text": "Rodapé",
+          "type": "link",
+          "path": "documentacao/footer_site.html"
+        },
+        {
+          "text": "Stripe",
+          "type": "link",
+          "path": "documentacao/stripe.html"
+        },
+      ]
+    },
+    {
+      "text": "Design",
+      "type": "label",
+      "children": [
+        {
+          "text": "Landing Page",
+          "type": "link",
+          "path": "design/landing_page.html"
+        },
+        {
+          "text": "Materiais Gráficos",
+          "type": "link",
+          "path": "design/graphic.html"
+        },
+        {
+          "text": "Menu do Site",
+          "type": "link",
+          "path": "design/menu_navigation.html"
+        },
+        {
+          "text": "Pôsters",
+          "type": "link",
+          "path": "design/posters.html"
+        },
+        {
+          "text": "Selo",
+          "type": "link",
+          "path": "documentacao/stamp.html"
+        },
+        {
+          "text": "Tamanho de imagens",
+          "type": "link",
+          "path": "design/image_size.html"
+        },
+        {
+          "text": "Tratamento de imagens",
+          "type": "link",
+          "path": "design/treatment.html"
+        },
       ]
     },
     {
@@ -51,48 +107,57 @@
           "path": "marketing/influencers.html"
         },
         {
-          "text": "Vitrines",
-          "type": "link",
-          "path": "marketing/showcase.html"
-        },
-        {
           "text": "Shooting",
           "type": "link",
           "path": "marketing/shooting.html"
         },
+        {
+          "text": "Vitrines",
+          "type": "link",
+          "path": "marketing/showcase.html"
+        },
       ]
     },
     {
-      "text": "Design",
+      "text": "Produto",
       "type": "label",
       "children": [
         {
-          "text": "Pôsters",
+          "text": "Custom Fields",
           "type": "link",
-          "path": "design/posters.html"
+          "path": "product/metafields.html"
         },
         {
-          "text": "Materiais Gráficos",
+          "text": "Estoque Integrado",
           "type": "link",
-          "path": "design/graphic.html"
+          "path": "product/integrated_stock.html"
         },
         {
-          "text": "Tratamento de imagens",
+          "text": "Lançamento",
           "type": "link",
-          "path": "design/treatment.html"
+          "path": "product/release.html"
         },
-
         {
-          "text": "Tamanho de imagens",
+          "text": "Layout",
           "type": "link",
-          "path": "design/image_size.html"
-        }
+          "path": "product/layout_product.html"
+        },
+        {
+          "text": "Novo Produto",
+          "type": "link",
+          "path": "product/new_prouduct.html"
+        },
+        {
+          "text": "Tags",
+          "type": "link",
+          "path": "product/tags.html"
+        },
       ]
     },
     {
       "text": "Suporte Técnico",
       "type": "link",
       "path": "need_help.html"
-    }
+    },
   ]
 }
