@@ -66,7 +66,7 @@ _#BasicoNaEstrada #Pima_"
 - Repostar influenciadores.
 
 ### **Influenciadores**
-[Planilha para consulta](https://docs.google.com/spreadsheets/d/1jndv5CS3MWiDQji9uJJRY_oN9dbUkAvRdmsHYvhmp3E/edit#gid=2071215103)
+[Planilha para consulta](https://docs.google.com/spreadsheets/d/1g5z3wxec4g-9OS840_Tpd1E5KLj9xUIXT--CB4yxu9s/edit?ts=5d961bd5#gid=0)
 
 #### **Acordo**
    - basico.com: 1 look (calça + camiseta) + R$700 em permuta a escolha.
