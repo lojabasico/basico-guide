@@ -15,9 +15,15 @@ Após escolher o produto, selecionar *Custom Fields* no menu superior.
 
 Na parte inferior do site será exibido o menu para inserir os valores que deseja cadastrar no produto.
 
-Também deve indicar a disponibilidade dos preços através das opções *true* ou *false*, conforme a imagem abaixo:
+Deve-se indicar a disponibilidade dos preços através das opções **true** ou **false**, conforme a imagem abaixo:
 
 ![](/images/cwyp/precos.png)
+
+Também é possível utilizar a opção **premium**.
+
+Essa opção deixa o preço bloqueado e só fica disponível para os clientes que realizaram uma compra no intervalo de tempo entre **01/11/2018** até **31/10/2019**.
+
+![](/images/cwyp/preco_premium.png)
 
 Lembrar de salvar as alterações no produto.
 
