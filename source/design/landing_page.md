@@ -42,7 +42,7 @@ Para facilitar e agilizar a criação de páginas, foi desenvolvido uma bibliote
 
 Você pode incorporar essas classes no seu código.
 
-Para acesssar o site e ver como essa biblioteca funciona basta acessar [basico widgets](https://basico-widgets-docs.herokuapp.com/class.html)
+Para acesssar o site e ver como essa biblioteca funciona basta acessar [basico widgets](https://basico-widgets.netlify.com/)
 
 ![](/images/landing_page/widgets.png)
 
