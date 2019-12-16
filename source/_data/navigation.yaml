@@ -35,6 +35,11 @@
           "path": "documentacao/documentacao.html"
         },
         {
+          "text": "Extensão da Loja",
+          "type": "link",
+          "path": "documentacao/extensao.html"
+        },
+        {
           "text": "Fora do Ar",
           "type": "link",
           "path": "documentacao/status_shopify.html"
