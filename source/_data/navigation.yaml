@@ -45,6 +45,11 @@
           "path": "documentacao/status_shopify.html"
         },
         {
+          "text": "Promos ON/OFF",
+          "type": "link",
+          "path": "documentacao/promo.html"
+        },        
+        {
           "text": "Rodapé",
           "type": "link",
           "path": "documentacao/footer_site.html"
