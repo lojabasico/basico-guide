@@ -65,6 +65,7 @@ Essas imagens podem ser aplicadas na *Landing Page*. Para conseguir usar as imag
   <landing-caption image="https://cdn.shopify.com/s/files/1/1324/3705/files/pantalona_midi_gelo.jpg?68862" position="right">
 {% endcodeblock %}
 
+
 ___
 ## Salvando sua página
 
